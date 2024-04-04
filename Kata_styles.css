@@ -23,8 +23,8 @@ p {
 
 .cards--row {
     display: flex;
-    padding-left: 240px;
-    padding-right: 240px;
+    padding-left: 20%;
+    padding-right: 20%;
     flex-direction: column;
     align-items: top;
     justify-content: space-evenly;
